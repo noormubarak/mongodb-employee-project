@@ -25,7 +25,7 @@ This project demonstrates the practical use of **MongoDB Compass** to manage an 
 mongodb-employee-project/
 │
 ├──  employees.json              # Original 20 records imported
-├── 📄 employees_final.json        # Exported backup data
+├── 📄 admin.employees.json        # Exported backup data
 ├── 📄 queries_used.txt            # List of queries run during the project
 ├──  project_report.docx         # Detailed project report
 ├── 📁 screenshots/                # Visual proof of project execution
